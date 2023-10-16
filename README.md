@@ -1,6 +1,15 @@
 # Student Enrollment Prediction
 
-This repository contains code for a binary classification project that predicts whether a student will graduate or drop out of college based on various features. The project involves data preprocessing, feature engineering, dimensionality reduction, and logistic regression modeling. 
+1. [Introduction](#introduction)
+2. [Data](#data)
+3. [Preprocessing](#preprocessing)
+4. [Dimensionality Reduction](#dimensionality-reduction)
+5. [Model](#model)
+6. [Results](#results)
+7. [Data Source](#data-source)
+
+## Introduction
+This repository contains code for a binary classification project that predicts whether a student will enroll or drop out based on various features. The project involves data preprocessing, feature engineering, dimensionality reduction, and logistic regression modeling.
 
 ## Data
 
