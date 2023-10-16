@@ -49,5 +49,3 @@ The dataset contains information about students, including their demographics, p
 For more details on the project, please refer to the code provided in this repository.
 
 ---
-
-*Note: This README is a summary based on the code provided. Additional sections or details may be necessary depending on the context and purpose of your repository.*
