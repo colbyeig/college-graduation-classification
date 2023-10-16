@@ -6,7 +6,7 @@
 4. [Dimensionality Reduction](#dimensionality-reduction)
 5. [Model](#model)
 6. [Results](#results)
-7. [Data Source](#data-source)
+7. [To Do](#TO-DO)
 
 ## Introduction
 This repository contains code for a binary classification project that predicts whether a student will enroll or drop out based on various features. The project involves data preprocessing, feature engineering, dimensionality reduction, and logistic regression modeling.
